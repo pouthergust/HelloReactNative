@@ -4,7 +4,7 @@
 ## To create the structure
 npx react-native init
 
-## iniciando porjeto com Typescript 
+## iniciando projeto com Typescript 
 npx react-native init MyApp --template react-native-template-typescript
 (`Ctrl + Shift + B` to build tsconfig,json)
 
